@@ -15,5 +15,6 @@ public class Main {
             long a3 = b[6] - a1 - a2;
             System.out.println(a1 + " " + a2 + " " + a3);
         }
+        sc.close();
     }
 }
